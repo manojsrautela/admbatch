@@ -1,1 +1,2 @@
 hello we are in this new file 
+this is the second line added to this file 
